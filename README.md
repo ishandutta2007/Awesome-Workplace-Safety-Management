@@ -54,7 +54,7 @@ Commercial workplace safety, EHS compliance, and space utilization platforms sor
 
 ## 🔓 Open-Source GitHub Projects
 
-Self-hosted and open-source workplace safety tools, EHS management systems, and safety AI repositories sorted by GitHub Stars_Count in descending order.
+Self-hosted and open-source workplace safety tools, EHS management systems, and safety AI repositories sorted by GitHub_Stars_Count in descending order.
 
 ### 🛡️ EHS & Incident Management
 
@@ -122,7 +122,7 @@ If you find this workplace safety ecosystem directory helpful in securing your f
 
 - This list is **community-curated** for educational and research purposes.
 - Workplace safety software often touches regulatory domain standards (e.g., OSHA 1910, ISO 45001, OSHWC Code 2020). Always consult certified EHS professionals prior to enterprise deployment.
-- Product valuations, prices, and GitHub Stars_Counts are updated periodically as of October 2026.
+- Product valuations, prices, and GitHub_Stars_Counts are updated periodically as of October 2026.
 
 ---
 
