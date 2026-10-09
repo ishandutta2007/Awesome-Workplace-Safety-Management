@@ -54,11 +54,11 @@ Commercial workplace safety, EHS compliance, and space utilization platforms sor
 
 ## 🔓 Open-Source GitHub Projects
 
-Self-hosted and open-source workplace safety tools, EHS management systems, and safety AI repositories sorted by GitHub star count in descending order.
+Self-hosted and open-source workplace safety tools, EHS management systems, and safety AI repositories sorted by GitHub Stars_Count in descending order.
 
 ### 🛡️ EHS & Incident Management
 
-| 📦 Repository | ⭐ Stars | 📜 License / Tech Stack | 🎯 Description & Focus |
+| 📦 Repository | ⭐ GitHub_Stars | 📜 License / Tech Stack | 🎯 Description & Focus |
 | :--- | :--- | :--- | :--- |
 | **[incidentalhq/incidental](https://github.com/incidentalhq/incidental)** | [![Stars](https://img.shields.io/github/stars/incidentalhq/incidental?style=social&color=white)](https://github.com/incidentalhq/incidental/stargazers) | **MIT** / TypeScript, Go | Open-source incident management platform integrating natively with Slack, PagerDuty, and workplace alert systems. |
 | **[minthcm/minthcm](https://github.com/minthcm/minthcm)** | [![Stars](https://img.shields.io/github/stars/minthcm/minthcm?style=social&color=white)](https://github.com/minthcm/minthcm/stargazers) | **AGPL-3.0** / PHP, MySQL | AI-enabled open-source Human Capital Management (HCM) system with workplace management, employee safety tracking, and analytics. |
@@ -73,7 +73,7 @@ Self-hosted and open-source workplace safety tools, EHS management systems, and 
 
 ### 👁️ Computer Vision & PPE Detection
 
-| 📦 Repository | ⭐ Stars | 📜 License / Tech Stack | 🎯 Description & Focus |
+| 📦 Repository | ⭐ GitHub_Stars | 📜 License / Tech Stack | 🎯 Description & Focus |
 | :--- | :--- | :--- | :--- |
 | **[snehilsanyal/Construction-Site-Safety-PPE-Detection](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection)** | [![Stars](https://img.shields.io/github/stars/snehilsanyal/Construction-Site-Safety-PPE-Detection?style=social&color=white)](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection/stargazers) | **MIT** / Python, YOLOv8 | Real-time object detection for construction site workers to enforce hardhat, vest, and Personal Protective Equipment (PPE) compliance. |
 | **[AnshulSood11/PPE-Detection-YOLO-Deep_SORT](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT)** | [![Stars](https://img.shields.io/github/stars/AnshulSood11/PPE-Detection-YOLO-Deep_SORT?style=social&color=white)](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT/stargazers) | **MIT** / Python, YOLOv3, DeepSORT | Multi-object tracking and computer vision pipeline for monitoring workplace safety equipment compliance in real time. |
@@ -88,7 +88,7 @@ Self-hosted and open-source workplace safety tools, EHS management systems, and 
 
 ### 📋 Safety Data Sheet (SDS) Management
 
-| 📦 Repository | ⭐ Stars | 📜 License / Tech Stack | 🎯 Description & Focus |
+| 📦 Repository | ⭐ GitHub_Stars | 📜 License / Tech Stack | 🎯 Description & Focus |
 | :--- | :--- | :--- | :--- |
 | **[TAStagg/GuardianSDS](https://github.com/TAStagg/GuardianSDS)** | [![Stars](https://img.shields.io/github/stars/TAStagg/GuardianSDS?style=social&color=white)](https://github.com/TAStagg/GuardianSDS/stargazers) | **MIT** / Vision-Language Models, React | AI-native Safety Data Sheet (SDS) management system with VLM extraction, emergency first-aid access, and GHS container label generation. |
 
@@ -122,7 +122,7 @@ If you find this workplace safety ecosystem directory helpful in securing your f
 
 - This list is **community-curated** for educational and research purposes.
 - Workplace safety software often touches regulatory domain standards (e.g., OSHA 1910, ISO 45001, OSHWC Code 2020). Always consult certified EHS professionals prior to enterprise deployment.
-- Product valuations, prices, and GitHub star counts are updated periodically as of October 2026.
+- Product valuations, prices, and GitHub Stars_Counts are updated periodically as of October 2026.
 
 ---
 
@@ -135,3 +135,12 @@ If you find this workplace safety ecosystem directory helpful in securing your f
 <p align="center">
   Made with ❤️ for safety professionals, EHS managers, and engineers building safer workplaces worldwide.
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Workplace-Safety-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Workplace-Safety-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Workplace-Safety-Management_growth.svg">
+  </picture>
+</a>
