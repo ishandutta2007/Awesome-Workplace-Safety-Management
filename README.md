@@ -65,7 +65,7 @@ The visual data analytics market is estimated at **$15.7 billion in 2026** and p
 
 ## ⚡ Open-Source GitHub Projects (Ranked by Stars) 🌟
 
-Visual data analytics is one of the strongest open-source domains. Below are top-tier open-source GitHub repositories sorted by **GitHub Star Count** (descending), complete with live social star badges linking directly to each project's stargazers page.
+Visual data analytics is one of the strongest open-source domains. Below are top-tier open-source GitHub repositories sorted by **GitHub Stars_Count** (descending), complete with live social Stars_Badges linking directly to each project's stargazers page.
 
 ### 📊 Full-Featured BI & Dashboarding Platforms
 
@@ -155,7 +155,7 @@ Contributions are welcome! Follow these steps to submit new SaaS platforms or op
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 📝 **Edit `README.md`** adding your tool under the appropriate section with correct markdown formatting.
-3. 🔗 **Include required metadata**: Name, official link, stargazers star badge (for open source), 1–2 sentence factual summary, pricing tier, and licensing.
+3. 🔗 **Include required metadata**: Name, official link, stargazers Stars_Badge (for open source), 1–2 sentence factual summary, pricing tier, and licensing.
 4. 🚀 **Submit a Pull Request** with a descriptive title (e.g., `Add ProjectName to Open-Source BI`).
 
 Read our curated guidelines at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
@@ -196,3 +196,12 @@ If you find this visual data analytics directory helpful for your team or organi
   <b>Made with ❤️ for Data Analysts, BI Engineers, and Data Analytics Sovereignty.</b><br>
   <i>Let's make visual data analytics more open, transparent, and accessible!</i>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Workplace-Safety-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Workplace-Safety-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Workplace-Safety-Management_growth.svg">
+  </picture>
+</a>
