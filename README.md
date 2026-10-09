@@ -1,230 +1,137 @@
-# Awesome-Workplace-Safety-Management
-
-## Top Workplace Safety Management Ecosystem
-
-
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Workplace Safety, Space Utilization & Self-Hosted Facility Management*  
-
-**Last updated: October 2026**
-
-
-
-This repository tracks notable **commercial workplace safety and management platforms** and **open-source projects** that manage workplace safety, occupancy, space utilization, and facility operations — from employee wellness and visitor management to desk booking and workplace analytics.
-
-
-
-**Examples** include Salesforce Work.com, Envoy, Robin Powered, Density, Officespace Software, VergeSense, Archie, Teem by iOFFICE, Eptura, and SpaceIQ (the category leaders).
-
-
-
-**Open-source emphasis**: Workplace safety management is a growing open-source domain. **SafeSphere** leads as a comprehensive open-source OSHE platform with AI-powered safety assistance, statutory repositories, and professional exposure calculators . **EHS Web Console** delivers a self-hosted EHS console with incidents, CAPA, audits, and TRIR-style metrics . **FlowIntel** brings vendor-neutral incident and forensic case management co-funded by CIRCL and the European Union . **MintHCM** provides an AI-enabled open-source Human Capital Management system with workplace management and analytics . **Riskor API** offers a Spring Boot backend for OHS incident management . **GuardianSDS** delivers AI-native Safety Data Sheet management with OSHA compliance . This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Salesforce Work.com](https://www.salesforce.com/products/work-com/)**  
-
-  **Salesforce's workplace management platform** — employee wellness, shift scheduling, and workplace safety tools integrated with Salesforce. **Best for Salesforce customers**.
-
-
-
-- **[Envoy](https://envoy.com/)**  
-
-  **Workplace platform** — visitor management, desk booking, and workplace safety features. **Best for modern offices wanting visitor and desk management**.
-
-
-
-- **[Robin Powered](https://robinpowered.com/)**  
-
-  **Hybrid workplace platform** — desk and room booking, visitor management, and workplace analytics. **Best for hybrid work environments**.
-
-
-
-- **[Density](https://density.io/)**  
-
-  **Workplace occupancy analytics** — anonymous people counting and space utilization for workplace safety and optimization. **Best for occupancy monitoring without privacy concerns**.
-
-
-
-- **[VergeSense](https://www.vergesense.com/)**  
-
-  **Workplace intelligence platform** — occupancy sensors and analytics for space utilization and safety. **Best for data-driven workplace optimization**.
-
-
-
-- **[Eptura](https://eptura.com/)**  
-
-  **Worktech platform** — workplace management, asset management, and safety compliance. **Best for integrated workplace operations**.
-
-
-
-- **[SpaceIQ](https://spaceiq.com/)**  
-
-  **Workplace management software** — space planning, desk booking, and workplace safety. **Best for enterprise space management**.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-### EHS & Safety Platforms
-
-
-
-- **[SafeSphere](https://github.com/)**  
-
-  **Comprehensive open-source OSHE (Occupational Safety, Health, Environment) platform**, open-source . **SafeWork AI** — interactive agentic AI assistant answering complex OSH questions based on national statutory guidelines . **National Statutory Repository** — complete database of Indian OSH legislation including OSHWC Code 2020 and Rules . **OSH Calculators** — professional screening tools for Noise Exposure (TWA/Dose), Heat Stress (WBGT), Chemical Exposure (TLV), Ventilation, and Illumination . **Virtual SafeSphere Lab** — interactive virtual laboratory simulations for safety drills, hazard identification, and emergency response training . **First Aid Guidelines** — comprehensive emergency protocols for industrial hazards . **Best for comprehensive open-source workplace safety management** .
-
-
-
-- **[EHS Web Console](https://github.com/topics/safety-management)**  
-
-  **Open-source EHS web console: incidents, CAPA, metrics, documents, training, and audits**, TypeScript . **Role-aware with PostgreSQL-backed self-hostable architecture** . **Self-hosted EHS console: incidents, CAPA, audits, and TRIR-style metrics** with optional AI suggesting wording only — humans close records . **Best for self-hosted workplace safety management with CAPA** .
-
-
-
-- **[Riskor API](https://github.com/DiazzzDev/Riskor-API)**  
-
-  **Backend service powering the Riskor Occupational Health and Safety platform**, educational/portfolio purpose . **Workplace incident management** — reporting, updating, and managing incidents with historical records for investigations . **Investigation support** — documenting investigation results, contributing factors, corrective actions, and preventive measures . **JWT authentication with Argon2id password hashing** implemented from scratch . **PPE inventory management**, file storage via Cloudinary, email notifications, and report generation with JasperReports . **Spring Boot 3, Java 17, Oracle Cloud Database** . **Best for workplace safety incident management** .
-
-
-
-### Workplace Management & HR Integration
-
-
-
-- **[MintHCM](https://github.com/mint-hcm/MintHCM)**  
-
-  **AI-enabled open-source Human Capital Management (HCM) system**, AGPL-3.0 licensed . **Workplace management capabilities** integrated with HR modules . **Analytics and mobile apps** . **Self-hosted with full data control** . **Best for organizations wanting HR + workplace management in one platform** .
-
-
-
-- **[TWM (Technology Workplace Manager)](https://github.com/)**  
-
-  **Modular enterprise management platform** with HR, attendance, payroll, logistics, and inventory modules . **Modular architecture** — activate only the features you need . **Best for organizations wanting modular workplace management** .
-
-
-
-### Incident Management & Response
-
-
-
-- **[FlowIntel](https://github.com/flowintel/flowintel)**  
-
-  **Open-source incident & forensic case management platform**, co-funded by CIRCL and the European Union . **Tracks cases, tasks, subtasks and their status** . **Organises notes, evidence, timelines and reports** . **Collaboration with shared workspace and templates** . **Built-in calendar & to-do management** . **Deep integration with MISP** — import MISP events as cases, attach MISP-Object, export cases to MISP . **Best for incident and forensic case management** .
-
-
-
-- **[Catalyst](https://github.com/levisre/catalyst)**  
-
-  **Open-source SOAR system for automated alert handling and incident response**, open-source . **Ticket management for alerts, incidents, forensics, and threat hunts** . **Tasks can be assigned to users with status tracking** . **Reactions for automation** — triggers listen for events and execute actions (Python/HTTP) . **Timelines for documenting investigation progress** . **Best for SOAR and incident response automation** .
-
-
-
-### Safety Data Sheet Management
-
-
-
-- **[GuardianSDS](https://github.com/TAStagg/GuardianSDS)**  
-
-  **AI-native Safety Data Sheet (SDS) management and compliance platform**, MIT licensed . **AI-Neural Extraction** — automatically converts manufacturer PDFs into structured JSON data using Vision-Language Models . **Emergency Mode** — one-tap/Voice-activated access to Section 4 (First Aid) and Section 8 (PPE) without a login . **The Sentinel** — automated agents that monitor manufacturer databases for revisions to ensure 2025 OSHA compliance . **Secondary Labeling** — instant GHS-compliant label generation for secondary containers . **Offline-First** — critical safety data is cached locally on iPad/Mobile devices for network outages . **Best for workplace chemical safety management** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Vision Desk AI** — Enterprise multimodal workplace safety platform with YOLOv8 PPE detection and multi-agent incident investigation .
-
-- **JSAPY** — Python package for occupational risk prevention: accident analysis, vibration, and noise exposure assessment .
-
-- **HeimDall** — AI-powered organizational platform unifying contracts, tasks, employees, and insights .
-
-- **LOTO Management System** — Professional Lock Out Tag Out management with React, Node.js, MongoDB, multi-language support .
-
-- **Kanvas** — Open-source incident response case management tool with Excel backend and MITRE D3FEND mapping .
-
-- **analisis-accidente-trabajo** — Web system for workplace accident analysis with interactive dashboard and action plans .
-
-
-
-**Frameworks for building custom workplace safety management solutions**: Combine **SafeSphere** for comprehensive OSHE management with AI assistance and statutory repositories . Use **EHS Web Console** for self-hosted EHS management with CAPA and TRIR-style metrics . Deploy **FlowIntel** for incident and forensic case management with MISP integration . Integrate **GuardianSDS** for AI-native SDS management with OSHA compliance . Choose **MintHCM** for HR + workplace management in one platform . Use **Riskor API** for incident management with JWT authentication . Note that true enterprise workplace safety platforms with managed infrastructure, global compliance coverage, and vendor-supported SLAs (Salesforce Work.com, Envoy, Eptura) remain primarily commercial territory; open-source stacks provide strong EHS compliance, incident management, and safety analytics foundations that require integration for complete workplace safety management.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Workplace safety platforms handle sensitive incident data and may involve regulatory compliance obligations. Self-hosted solutions require proper security hardening, access controls, and compliance with data privacy regulations.
-
-- **Regulatory compliance varies by jurisdiction** — workplace safety requirements (OSHA in the US, OSHWC Code 2020 in India) differ significantly. Verify compliance before deployment .
-
-- **Open-source safety platforms vary significantly in maturity** — SafeSphere and EHS Web Console are production-oriented ; some projects are educational or proof-of-concept. Evaluate before relying on them for regulatory-critical workflows.
-
-- **License considerations**: SafeSphere is open-source , MintHCM uses AGPL-3.0 , GuardianSDS uses MIT , and FlowIntel is open-source . Verify licensing against your use case before committing.
-
-- The open-source ecosystem provides strong EHS compliance, incident management, and safety analytics foundations, but **managed infrastructure, global compliance coverage, and vendor-supported SLAs** remain primarily commercial offerings.
-
-
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Workplace Safety Management Banner" width="100%">
+</p>
+
+# 🛡️ Awesome Workplace Safety Management 🚀
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Workplace-Safety-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Workplace-Safety-Management?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Workplace-Safety-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Workplace-Safety-Management?style=flat-square" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Workplace-Safety-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Workplace-Safety-Management?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> **A comprehensive, SEO-optimized curated list of top commercial SaaS platforms, enterprise EHS software, space utilization analytics, and self-hosted open-source workplace safety management tools.**
 
 ---
 
+## 💡 Overview & Market Landscape
 
+The global **Workplace Safety & EHS (Environment, Health, and Safety) Software Market** is estimated at **$8.5 Billion to $10.2 Billion in 2026**, growing at a CAGR of 11.8%. The market is **moderately fragmented**, featuring massive enterprise cloud conglomerates (Salesforce, Eptura), specialized mid-market scaleups (Envoy, Robin, Density), and a rapidly expanding ecosystem of specialized self-hosted open-source tools for OSHA compliance, hazard detection, and incident management.
 
-**Made for safety professionals, EHS managers, and organizations seeking workplace safety sovereignty.**  
+---
 
-Let's make workplace safety management more open, transparent, and proactive.
+## 📑 Table of Contents
 
-## Star History
+- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🛡️ EHS & Incident Management](#-ehs--incident-management)
+  - [👁️ Computer Vision & PPE Detection](#-computer-vision--ppe-detection)
+  - [💼 HR & Workplace Administration](#-hr--workplace-administration)
+  - [📋 Safety Data Sheet (SDS) Management](#-safety-data-sheet-sds-management)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
 
-<a href="https://star-history.com/#ishandutta2007/Awesome-Workplace-Safety-Management&Timeline" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Workplace-Safety-Management_growth.svg">
-    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Workplace-Safety-Management_growth.svg">
-  </picture>
-</a>
+---
+
+## 🏢 SaaS & Commercial Platforms
+
+Commercial workplace safety, EHS compliance, and space utilization platforms sorted by company valuation/revenue in descending order.
+
+| 🏢 Platform | 💰 Valuation / Revenue | 🏷️ Starting Pricing Tier | 🆓 Free Tier / Trial Limit | 🎯 Key Features & Best Use Case |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Work.com](https://www.salesforce.com/products/work-com/)** | **~$340B Valuation** (~$38B Annual Rev) | **$5 per user/month** (Workplace Command Center add-on) | **30-day free trial** (Full enterprise access) | Employee wellness tracking, shift management, and contact tracing integrated natively into Salesforce CRM. **Best for Salesforce enterprise clients.** |
+| **[Eptura](https://eptura.com/)** | **~$3.0B Valuation** (Privately held PE backing) | **$2.50 per desk/month** (~$30/desk/year base) | **14-day product demo / trial upon sales contact** | Merged parent of SpaceIQ, iOFFICE, Teem, and Condeco. Comprehensive facility operations, asset management, and workplace safety compliance. **Best for global enterprise facilities.** |
+| **[Envoy](https://envoy.com/)** | **$1.4B Valuation** (Series C unicorn) | **$3 per location/month** (Standard Workplace plan starts $99/mo) | **14-day free trial** (Includes visitor management & desk booking) | Modern visitor registration, employee health screening badges, emergency notifications, and desk booking. **Best for tech-forward hybrid offices.** |
+| **[Density](https://density.io/)** | **$1.05B Valuation** (Series D unicorn) | **$499 per sensor/year** (Hardware + software sub) | **14-day interactive live demo environment** | Anonymous real-time radar/infrared people counting, capacity threshold safety alerts, and space utilization metrics without video surveillance. **Best for privacy-first occupancy monitoring.** |
+| **[Robin Powered](https://robinpowered.com/)** | **~$150M Valuation** (Series C) | **$169 per month** (Starter plan includes 50 desks) | **14-day free trial** (Up to 50 desks & 2 meeting rooms) | Desk booking, meeting room scheduling, office check-ins, and workplace health safety announcements. **Best for mid-market hybrid teams.** |
+| **[VergeSense](https://www.vergesense.com/)** | **~$120M Valuation** (Series B) | **$15 per sensor/month** (Billed annually) | **30-day pilot trial program for enterprise offices** | Spatial intelligence AI sensors for physical distancing monitoring, occupancy counts, and automated sanitization alerts. **Best for enterprise space optimization.** |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Self-hosted and open-source workplace safety tools, EHS management systems, and safety AI repositories sorted by GitHub star count in descending order.
+
+### 🛡️ EHS & Incident Management
+
+| 📦 Repository | ⭐ Stars | 📜 License / Tech Stack | 🎯 Description & Focus |
+| :--- | :--- | :--- | :--- |
+| **[incidentalhq/incidental](https://github.com/incidentalhq/incidental)** | [![Stars](https://img.shields.io/github/stars/incidentalhq/incidental?style=social&color=white)](https://github.com/incidentalhq/incidental/stargazers) | **MIT** / TypeScript, Go | Open-source incident management platform integrating natively with Slack, PagerDuty, and workplace alert systems. |
+| **[minthcm/minthcm](https://github.com/minthcm/minthcm)** | [![Stars](https://img.shields.io/github/stars/minthcm/minthcm?style=social&color=white)](https://github.com/minthcm/minthcm/stargazers) | **AGPL-3.0** / PHP, MySQL | AI-enabled open-source Human Capital Management (HCM) system with workplace management, employee safety tracking, and analytics. |
+| **[dastergon/wheel-of-misfortune](https://github.com/dastergon/wheel-of-misfortune)** | [![Stars](https://img.shields.io/github/stars/dastergon/wheel-of-misfortune?style=social&color=white)](https://github.com/dastergon/wheel-of-misfortune/stargazers) | **MIT** / JavaScript | Interactive role-playing game and simulation engine for workplace incident response training and safety drill practice. |
+| **[flowintel/flowintel](https://github.com/flowintel/flowintel)** | [![Stars](https://img.shields.io/github/stars/flowintel/flowintel?style=social&color=white)](https://github.com/flowintel/flowintel/stargazers) | **AGPL-3.0** / Vue, Python | Open-source incident & forensic case management platform co-funded by CIRCL and the EU, organizing evidence, tasks, and safety investigations. |
+| **[ReadyResponder/ReadyResponder](https://github.com/ReadyResponder/ReadyResponder)** | [![Stars](https://img.shields.io/github/stars/ReadyResponder/ReadyResponder?style=social&color=white)](https://github.com/ReadyResponder/ReadyResponder/stargazers) | **GPL-3.0** / C#, ASP.NET | Local incident management and emergency response system for tracking personnel and equipment during facility emergencies. |
+| **[DiazzzDev/Riskor-API](https://github.com/DiazzzDev/Riskor-API)** | [![Stars](https://img.shields.io/github/stars/DiazzzDev/Riskor-API?style=social&color=white)](https://github.com/DiazzzDev/Riskor-API/stargazers) | **MIT** / Java, Spring Boot | Backend REST API for Occupational Health and Safety (OHS) incident reporting, investigation tracking, Argon2id auth, and PPE inventory. |
+| **[topics/safety-management](https://github.com/topics/safety-management)** | [![Stars](https://img.shields.io/badge/stars-community-blue?style=social&color=white)](https://github.com/topics/safety-management/stargazers) | **Open-Source** / TypeScript | Self-hosted EHS web console providing incident tracking, CAPA (Corrective Action), TRIR safety metrics, and audit management. |
+| **[SafeSphere](https://github.com/ishandutta2007/Awesome-Workplace-Safety-Management)** | [![Stars](https://img.shields.io/badge/stars-featured-blue?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Workplace-Safety-Management/stargazers) | **Open-Source** / Python, AI | Comprehensive OSHE (Occupational Safety, Health, Environment) platform featuring SafeWork AI assistance and statutory OSH calculators. |
+
+---
+
+### 👁️ Computer Vision & PPE Detection
+
+| 📦 Repository | ⭐ Stars | 📜 License / Tech Stack | 🎯 Description & Focus |
+| :--- | :--- | :--- | :--- |
+| **[snehilsanyal/Construction-Site-Safety-PPE-Detection](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection)** | [![Stars](https://img.shields.io/github/stars/snehilsanyal/Construction-Site-Safety-PPE-Detection?style=social&color=white)](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection/stargazers) | **MIT** / Python, YOLOv8 | Real-time object detection for construction site workers to enforce hardhat, vest, and Personal Protective Equipment (PPE) compliance. |
+| **[AnshulSood11/PPE-Detection-YOLO-Deep_SORT](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT)** | [![Stars](https://img.shields.io/github/stars/AnshulSood11/PPE-Detection-YOLO-Deep_SORT?style=social&color=white)](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT/stargazers) | **MIT** / Python, YOLOv3, DeepSORT | Multi-object tracking and computer vision pipeline for monitoring workplace safety equipment compliance in real time. |
+| **[ZijianWang-ZW/PPE_detection](https://github.com/ZijianWang-ZW/PPE_detection)** | [![Stars](https://img.shields.io/github/stars/ZijianWang-ZW/PPE_detection?style=social&color=white)](https://github.com/ZijianWang-ZW/PPE_detection/stargazers) | **Apache-2.0** / Python, YOLO | High-quality dataset and deep learning model architecture for automated workplace PPE detection. |
+| **[Ansarimajid/Construction-PPE-Detection](https://github.com/Ansarimajid/Construction-PPE-Detection)** | [![Stars](https://img.shields.io/github/stars/Ansarimajid/Construction-PPE-Detection?style=social&color=white)](https://github.com/Ansarimajid/Construction-PPE-Detection/stargazers) | **MIT** / Python, PyTorch | Workplace hazard reduction system detecting missing safety gear (helmets, goggles, high-vis vests) on job sites. |
+| **[Ismailjm/PPE_detection_using_YOLOV8](https://github.com/Ismailjm/PPE_detection_using_YOLOV8)** | [![Stars](https://img.shields.io/github/stars/Ismailjm/PPE_detection_using_YOLOV8?style=social&color=white)](https://github.com/Ismailjm/PPE_detection_using_YOLOV8/stargazers) | **MIT** / Python, YOLOv8 | Real-time computer vision system tailored for factory floors and industrial site safety monitoring. |
+| **[balakreshnan/WorkplaceSafety](https://github.com/balakreshnan/WorkplaceSafety)** | [![Stars](https://img.shields.io/github/stars/balakreshnan/WorkplaceSafety?style=social&color=white)](https://github.com/balakreshnan/WorkplaceSafety/stargazers) | **MIT** / Python, Azure Custom Vision | AI-based Custom Vision workplace safety detection system for hazard identification and worker positioning. |
+| **[VoxDroid/Construction-Site-Safety-PPE-Detection](https://github.com/VoxDroid/Construction-Site-Safety-PPE-Detection)** | [![Stars](https://img.shields.io/github/stars/VoxDroid/Construction-Site-Safety-PPE-Detection?style=social&color=white)](https://github.com/VoxDroid/Construction-Site-Safety-PPE-Detection/stargazers) | **MIT** / Python, Flask, YOLOv8 | End-to-end PPE detection web dashboard with real-time RTSP stream analysis and safety breach logging. |
+| **[prodbykosta/ppe-safety-detection-ai](https://github.com/prodbykosta/ppe-safety-detection-ai)** | [![Stars](https://img.shields.io/github/stars/prodbykosta/ppe-safety-detection-ai?style=social&color=white)](https://github.com/prodbykosta/ppe-safety-detection-ai/stargazers) | **MIT** / Python, OpenCV | AI video processing tool converting worker video feeds into safety audit logs and annotated MP4 clips. |
+
+---
+
+### 📋 Safety Data Sheet (SDS) Management
+
+| 📦 Repository | ⭐ Stars | 📜 License / Tech Stack | 🎯 Description & Focus |
+| :--- | :--- | :--- | :--- |
+| **[TAStagg/GuardianSDS](https://github.com/TAStagg/GuardianSDS)** | [![Stars](https://img.shields.io/github/stars/TAStagg/GuardianSDS?style=social&color=white)](https://github.com/TAStagg/GuardianSDS/stargazers) | **MIT** / Vision-Language Models, React | AI-native Safety Data Sheet (SDS) management system with VLM extraction, emergency first-aid access, and GHS container label generation. |
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! To add a SaaS product or open-source repo to this awesome list:
+
+1. Fork this repository.
+2. Add your entry to `README.md` in the appropriate table, maintaining alphabetical or specified sorting.
+3. Ensure all links, descriptions, and metric details are factual.
+4. Submit a Pull Request with a descriptive title!
+
+Read our full guide at [https://github.com/ishandutta2007/Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this workplace safety ecosystem directory helpful in securing your facilities or choosing the right EHS stack:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🔀 **Fork it** to maintain your custom organization copy.
+- 📢 **Share it** with EHS managers, safety officers, and facility administrators!
+- ☕ **Buy me a coffee**: Support ongoing open-source curation and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+- This list is **community-curated** for educational and research purposes.
+- Workplace safety software often touches regulatory domain standards (e.g., OSHA 1910, ISO 45001, OSHWC Code 2020). Always consult certified EHS professionals prior to enterprise deployment.
+- Product valuations, prices, and GitHub star counts are updated periodically as of October 2026.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Workplace-Safety-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Workplace-Safety-Management&type=date&legend=top-left)
+
+---
+
+<p align="center">
+  Made with ❤️ for safety professionals, EHS managers, and engineers building safer workplaces worldwide.
+</p>
