@@ -219,3 +219,12 @@ Star the repo if you find it useful!
 **Made for safety professionals, EHS managers, and organizations seeking workplace safety sovereignty.**  
 
 Let's make workplace safety management more open, transparent, and proactive.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Workplace-Safety-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Workplace-Safety-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Workplace-Safety-Management_growth.svg">
+  </picture>
+</a>
